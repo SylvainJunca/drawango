@@ -21,8 +21,8 @@ uploadHandler = () => {
     
     
     reader.onload = () => {
-         const data = reader.result
-         this.setState({image: data})
+      const data = reader.result
+      this.setState({image: data})
  
     }
   } else {
@@ -50,7 +50,7 @@ getFiles(files){
       <button onClick={this.uploadHandler}>Upload!</button>
       </div>
       <div>
-              {this.state.image ? validate : ''}
+        {this.state.image ? validate : ''}
       </div>
       </div>
     );

@@ -14,7 +14,7 @@ class DesktopWelcome extends Component {
       <div>
         <div className="desktopWelcomeContainer">
           <h1 className="desktopWelcomeTitle">Welcome to Drawango</h1>
-          <p>Go to this site on your mobile to play: <br></br> www.whatever-we-want-this-to-be.com</p>
+          <p>Go to the localhost on your mobile to play</p>
         </div>
 
         <div className="desktop-logo-container">
