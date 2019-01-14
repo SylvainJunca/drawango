@@ -2,7 +2,7 @@ Drawango
 =====================
 
 A drawing game (Pictionary like) using ReactJS and a websocket server.
-You connect first to the main Screnn (desktop or laptop)
+You connect first to the main Screen (desktop or laptop) and then players can join the game via their smartphones
 
 ## Final Product
 
