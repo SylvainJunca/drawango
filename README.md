@@ -1,4 +1,4 @@
-Chatty App
+Drawango
 =====================
 
 A drawing game (Pictionary like) using ReactJS and a websocket server.
